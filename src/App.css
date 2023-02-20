@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-image: url("https://www.todofondos.net/wp-content/uploads/1280x720-Rick-Morty-Wallpaper-SpeedPaint.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

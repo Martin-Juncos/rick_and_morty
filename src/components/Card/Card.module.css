@@ -1,0 +1,17 @@
+.contenedor{
+    background-color: rgb(88, 88, 233, 0.3);
+    border-radius: 10px;
+    padding: 20px;
+    width: fit-content;
+}
+.boton{
+    background-color: rgb(229, 66, 66);
+    color: rgb(233, 215, 215);
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin-right: 0;
+    margin-left: auto;
+    padding: 10px;
+    
+}

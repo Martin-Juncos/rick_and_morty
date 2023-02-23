@@ -12,7 +12,6 @@ function App () {
           onSearch={(characterID) => window.alert(characterID)}
         />
       </div>
-      <hr/>
       <div className='Card'>
         <Card
           name={Rick.name}

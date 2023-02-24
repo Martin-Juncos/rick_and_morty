@@ -1,5 +1,13 @@
 .contenedor {
-  padding: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(88, 88, 233, 0.3);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; 
+  
 }
 .input {
   height: 50px;

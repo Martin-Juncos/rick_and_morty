@@ -8,6 +8,7 @@ export default function Cards(props) {
       {
          characters.map((char, index)=>
          <Card
+         detailId = {char.id}
          id= {char.id}
          key = {index}
          name={char.name}

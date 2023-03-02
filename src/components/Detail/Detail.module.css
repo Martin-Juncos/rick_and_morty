@@ -1,0 +1,8 @@
+.contenedor{
+    border: 1px solid black;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styles from './Detail.module.css'
-import { useParams } from 'react-router-dom/cjs/react-router-dom.min';
+import { useParams } from 'react-router-dom';
 
 
 export default function Detail() {
